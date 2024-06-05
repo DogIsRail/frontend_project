@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "title": "Prinz Gregor",
+    "image": [
+      "static/images_excursions/1/1_1.jpg",
+      "static/images_excursions/1/1_2.jpg",
+      "static/images_excursions/1/1_3.jpg",
+      "static/images_excursions/1/1_4.jpg"
+    ],
+    "overview": "You're eligible for a Genius discount at Prinz Gregor! To save at this property, all you have to do is sign in.\nSet within 700 metres of The White Tower and 5.3 km of Aquatic Paradise, Prinz Gregor offers rooms in Braşov. With a garden, the 3-star hotel has air-conditioned rooms with free WiFi, each with a private bathroom. Private parking is available on site.\n\nAt the hotel, all rooms include a desk. Each room has a flat-screen TV, and certain units at Prinz Gregor have a city view. At the accommodation every room includes bed linen and towels.\n\nGuests at Prinz Gregor can enjoy a buffet or a continental breakfast.\n\nSpeaking English and Romanian at the reception, staff are always at hand to help.\n\nPopular points of interest near the hotel include The Black Tower, Strada Sforii and Council Square. The nearest airport is Sibiu International Airport, 145 km from Prinz Gregor.\n\nCouples particularly like the location — they rated it 9.7 for a two-person trip.",
+    "included": [
+      "Private parking",
+      "Free WiFi",
+      "Breakfast included",
+      "24-hour front desk"
+    ],
+    "date":"05-05-2022", 
+    "comments": []
+  },
+  {
+    "id": 1,
+    "title": "Radisson Blu Aurum Hotel, Brasov",
+    "image": [
+      "static/images_excursions/2/2_1.jpg",
+      "static/images_excursions/2/2_2.jpg",
+      "static/images_excursions/2/2_3.jpg",
+      "static/images_excursions/2/2_4.jpg"
+    ],
+    "overview": "Ideally set in Braşov, Radisson Blu Aurum Hotel, Brasov offers air-conditioned rooms, a seasonal outdoor swimming pool, free WiFi and a fitness centre. Among the various facilities of this property are a garden, a shared lounge and a terrace. Private parking can be arranged at an extra charge.\n\nAll guest rooms in the hotel are equipped with a coffee machine. The private bathroom is fitted with a shower, free toiletries and a hairdryer. At Radisson Blu Aurum Hotel, Brasov the rooms come with bed linen and towels.\n",
+    "included": [
+      "Private parking",
+      "Free WiFi",
+      "Breakfast included",
+      "Bar"
+    ],
+    "date":"05-04-2022", 
+    "comments": [
+      {
+        "user_id": "52f38ce2-70c0-415f-b522-3f8ce8592cdc",
+        "comment": "mkmknb"
+      },
+      {
+        "user_id": "52f38ce2-70c0-415f-b522-3f8ce8592cdc",
+        "comment": ";,mkn"
+      },
+      {
+        "user_id": "ff31a763-8563-435a-b047-5e305c898066",
+        "comment": "i can't anymore"
+      },
+      {
+        "user_id": "ff31a763-8563-435a-b047-5e305c898066",
+        "comment": "hi:)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Elexus Predeal",
+    "image": [
+      "static/images_excursions/3/3_1.jpg",
+      "static/images_excursions/3/3_2.jpg",
+      "static/images_excursions/3/3_3.jpg",
+      "static/images_excursions/3/3_4.jpg"
+    ],
+    "overview": "Set in Predeal, 20 km from Braşov Adventure Park, Elexus Predeal offers accommodation with a garden, free private parking, a terrace and a restaurant. With free WiFi, this 4-star hotel offers room service and a 24-hour front desk. Guests can use the spa and wellness centre with a sauna, and hot tub, as well as a bar.\n\nThe hotel will provide guests with air-conditioned rooms offering a wardrobe, a kettle, a minibar, a safety deposit box, a flat-screen TV and a private bathroom with a shower.\n\nPeles Castle is 20 km from Elexus Predeal, while George Enescu Memorial House is 20 km from the property. The nearest airport is Henri Coandă International Airport, 128 km from the accommodation.",
+    "included": [
+      "Private parking",
+      "Free WiFi",
+      "All-inclusive",
+      "Bar"
+    ],
+    "date":"01-02-2022"
+  },
+  {
+    "id": 3,
+    "title": "Qosmo Brasov Hotel",
+    "image": [
+      "static/images_excursions/4/4_1.jpg",
+      "static/images_excursions/4/4_2.jpg",
+      "static/images_excursions/4/4_3.jpg",
+      "static/images_excursions/4/4_4.jpg"
+    ],
+    "overview": "You're eligible for a Genius discount at Qosmo Brasov Hotel! To save at this property, all you have to do is sign in.\nSet in Braşov, 3.6 km from Aquatic Paradise, Qosmo Brasov Hotel offers accommodation with a terrace, free private parking, a restaurant and a bar. This 4-star hotel offers an ATM and a concierge service. The accommodation features a 24-hour front desk, airport transfers, room service and free WiFi throughout the property.\n\nThe units at the hotel come with air conditioning, a seating area, a flat-screen TV with cable channels, a safety deposit box and a private bathroom with free toiletries and a hairdryer. The rooms come with a kettle, while selected rooms here will provide you with a balcony and others also have mountain views. At Qosmo Brasov Hotel all rooms are equipped with bed linen and towels.\n",
+    "included": [
+      "Private parking",
+      "Free WiFi",
+      "All-inclusive",
+      "Bar"
+    ],
+    "date":"05-01-2023"
+  },
+  {
+    "id": 4,
+    "title": "SCHUSTER Boarding House",
+    "image": [
+      "static/images_excursions/5/5_1.jpg",
+      "static/images_excursions/5/5_2.jpg",
+      "static/images_excursions/5/5_3.jpg",
+      "static/images_excursions/5/5_4.jpg",
+      "static/images_excursions/5/5_5.jpg"
+    ],
+    "overview": "SCHUSTER Boarding House has a garden, shared lounge, a terrace and bar in Braşov. Built in 1914, this 3-star hotel is within 200 metres of Strada Sforii and 500 metres of Council Square. The accommodation features a 24-hour front desk, airport transfers, a concierge service and free WiFi.\n\nThe rooms are fitted with a flat-screen TV with cable channels, minibar, a coffee machine, a shower, free toiletries and a desk. Rooms come with a safety deposit box and certain rooms are equipped with city views. The units have a private bathroom, a hairdryer and bed linen.",
+    "included": [
+      "Private parking",
+      "Free WiFi",
+      "Half board",
+      "Bar"
+    ],
+    "date":"25-09-2022"
+  }
+]

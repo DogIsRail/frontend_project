@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Hotels of Transylvania</title>
+  <link rel="stylesheet" href="static\icons\style_icons.css">
+  <link rel="stylesheet" href="static\css\weather.css">
+  <link rel="stylesheet" href="static\css\style.css">
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.development.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.development.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <a href="/">
+        <div class="main_page">
+          <img src="static\icons\main.png" alt="Main Page">
+        </div>
+      </a>
+
+      <a href="/account">
+        <div class="profile">
+          <img src="static\icons\profile_image.png" alt="Profile Image">
+          <span>My Profile</span>
+        </div>
+      </a>
+    </nav>
+  </header>
+  <div id="root"></div>
+  <main>
+    <h1><br>Hotels of Transylvania</h1>
+    <p class="p-description">Transylvania ain't a popular place for vacation, but it is indeed worth attending, especially  if you are interested in vampires</p>
+    <img src="static\icons\welcome.jpg" alt="main" class="greece_image">
+  </main>
+  
+  <nav class="nav-container">
+    <ul>
+      <li><a href="/page1">The History</a></li>
+      <li><a href="/page2">Must-see attractions</a></li>
+      <li><a href="/page3">Hotels</a></li>
+    </ul>
+  </nav>
+
+  <!-- Include the compiled version of your weather.js file -->
+  <script type="text/babel" src="static\js\weather.js"></script>
+
+  <!-- Render the weather widget -->
+  <script type="text/babel">
+    ReactDOM.render(<App />, document.getElementById("root"));
+  </script>
+  <footer>
+    <table>
+      <caption>Contacts</caption>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Telephone</th>
+          <th>Email</th>
+          <th>Country</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Vlad Impaler</td>
+          <td>+40000000000</td>
+          <td>dracula@lll.kpi.ua</td>
+          <td>Romania</td>
+        </tr>
+        <tr>
+          <td>Eric Brooks</td>
+          <td>+10000000000</td>
+          <td>blade@lll.kpi.ua</td>
+          <td>USA</td>
+        </tr>
+        <tr>
+          <td>William Pratt</td>
+          <td>+44000000000</td>
+          <td>spike@lll.kpi.ua</td>
+          <td>UK</td>
+        </tr>
+      </tbody>
+    </table>
+  </footer>
+
+
+</body>
+
+</html>
